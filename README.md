@@ -21,14 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzah30&show_icons=true&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
