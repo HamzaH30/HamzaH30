@@ -24,10 +24,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzah30&show_icons=true&theme=dark" alt="Hamza's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzah30&show_icons=true&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
