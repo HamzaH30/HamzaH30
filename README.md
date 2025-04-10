@@ -9,8 +9,10 @@
 
 ### 🚀 About Me
 
+- Working as a web developer in a freelancing role
+- Work as a full-stack developer for various organizations. Work ranges from contract bug fixes to long-term projects.
 - 🎓 **Dual-Enrollment Student**: Currently studying at the University of Manitoba. Graduate from the **Software Development** program at **Manitoba Institute of Trades & Technology (MITT)** through the **Pembina Trails Early College (PTEC)** program.
-- 🏆 **Web Development Competitor**: Represented **Manitoba** in **Skills Canada** for **Web Development**.
+- 🏆 **Web Development Competitor**: Represented **Manitoba** in **Skills Canada** for **Web Development**. Won gold provincially and bronze nationally in 1st year of competing
 - 💡 **Tech Stack**: Proficient in **TypeScript, AWS, Node.js, React, DynamoDB, and Python**.
 - 🕌 **Community Involvement**: Helping various organizations and causes through tech!.
 
